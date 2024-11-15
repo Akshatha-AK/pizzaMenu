@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# pizzaMenu
+I built a React pizza menu app that displays a list of pizzas available for order. The app also tracks and highlights pizzas that are sold out, providing an interactive and dynamic user experience. This functionality was implemented using React's useState hook to manage the availability status of each pizza.
+>>>>>>> 563840120e28c64227789a9f6389ac5700e8cdc8
